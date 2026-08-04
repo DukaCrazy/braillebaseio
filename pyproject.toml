@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "braillebaseio"
+version = "1.0.1"
+description = "Universal Braille Data Loader: Reads CSV, XML, or JSON sheets and converts them into a unified structure containing Letter, Braille cell, and Pattern classification."
+authors = [
+    { name = "Nagao Yuji" }
+]
+readme = "README.md"
+license = { text = "CC0-1.0" }
+requires-python = ">=3.6"
+keywords = ["braille", "csv", "json", "xml", "braillebase", "blind", "education", "loader"]
+
+[project.urls]
+Homepage = "https://github.com/DukaCrazy/braillebaseio"
+Documentation = "https://github.com/DukaCrazy/braillebaseio"
+Source = "https://github.com/DukaCrazy/braillebaseio"
