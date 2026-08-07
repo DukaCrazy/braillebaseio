@@ -42,3 +42,5 @@ b,"⠟,⠟,⠟",0
 ## Output Example
 
 [('a', ['⠁', '⠁'], 0), ('b', ['⠟', '⠟', '⠟'], 0)]
+
+<img src="./img/logo.png" alt="Logo" width="500" height="493">
