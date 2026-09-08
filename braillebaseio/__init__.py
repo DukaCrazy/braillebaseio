@@ -2,10 +2,12 @@ import json
 import csv
 import xml.etree.ElementTree as ET
 
+# 0
 def read_file(path: str) -> list:
     with open(path, "r", encoding="utf-8") as f:
         return read_string(f.read())
 
+# 1
 def read_string(data: str) -> list:
     data = data.strip()
 
