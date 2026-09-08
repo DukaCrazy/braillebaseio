@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "braillebaseio"
-version = "1.0.1"
+version = "1.0.3"
 description = "Universal Braille Data Loader: Reads CSV, XML, or JSON sheets and converts them into a unified structure containing Letter, Braille cell, and Pattern classification."
 authors = [
     { name = "Nagao Yuji" }
